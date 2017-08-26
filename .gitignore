@@ -1,7 +1,7 @@
 # ignore the following for version control
 
 *.pyc
-config.py
+configs/*
 .idea/*
 logs/*
 .ipynb_checkpoints
